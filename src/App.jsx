@@ -9,7 +9,7 @@ const App = () => {
         Notes.
       </span>
       <AddData />
-      <div className="github absolute bottom-10 left-10">
+      <div className="github absolute bottom-10 left-10 border-2 p-4 text-xl bg-zinc-200 rounded-full">
         <a
           href="https://github.com"
           className="text-zinc-600 hover:text-zinc-400 transition-colors"
